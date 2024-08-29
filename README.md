@@ -2,7 +2,7 @@
 
 # Curso em Vídeo - Python 3
 
-<div class='imagem-texto' style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: inline_block">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20code&logoColor=white" />  
