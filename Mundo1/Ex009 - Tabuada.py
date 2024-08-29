@@ -1,5 +1,5 @@
 '''
-Desenvolva um programa que mostre a tabuada de qualquer número inteiro.
+Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 '''
 
 def operacao():

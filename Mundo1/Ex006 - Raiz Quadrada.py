@@ -1,3 +1,7 @@
+'''
+Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+'''
+
 def operando():
     num = int(input('\nDigite um número: '))
     opr = int(input('\nDentre as opções abaixo:\n\n\033[033m 1 \033[m- Calcular o quadrado\n\033[33m 2 \033[m- Calcular o Cubo\n\033[33m 3 \033[m- Calcular a Raíz\n\nEscolha: '))

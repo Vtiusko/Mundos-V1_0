@@ -1,3 +1,7 @@
+'''
+Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+'''
+
 dado = input('Digite qualquer coisa (número, letra, símbolo, nada...etc): ')
 
 print('\nOs métodos ".is...()" retornam True ou False\n')

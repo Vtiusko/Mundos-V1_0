@@ -1,4 +1,6 @@
 '''
+Crie um programa que leia dois números e mostre a soma entre eles.
+
 Se não definirmos o tipo primitivo:
     - INT
     - FLOAT
