@@ -1,0 +1,18 @@
+# Ignorar arquivos temporários
+/tmp
+*.swp
+*.log
+
+# Ignorar arquivos de configuração locais
+config.local
+*.suo
+
+# Ignorar arquivos comuns de teste
+teste.py
+*_test.*
+test/*
+tests/*
+
+# Ignorar diretórios build
+/build
+/dist
