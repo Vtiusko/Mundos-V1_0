@@ -5,9 +5,8 @@ print(f'{" DESCONTASSO ":=^38}\n')
 
 valor = float(input('Informe o preço do produto,\nE ganhe 5% de desconto: R$ '))
 
-
 # Tem duas formas de calcular a porcentagem:
-    # valor * 5 / 100 
+    # valor * (5 / 100) 
     # valor * 0.05
 desconto = valor * 0.05
 valor_final = valor - desconto
