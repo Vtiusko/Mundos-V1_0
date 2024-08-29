@@ -26,13 +26,11 @@
 <br>
 
 ### Quantos exercícios são?📝
-<<<<<<< HEAD
 - Mundo 1 🌎 - composto por <em>35 exercícios</em> (1 - 35).
 - Mundo 2 🌎 - composto por <em>36 exercícios</em> (36 - 71).
 - Mundo 3 🌎 - <em>em andamento</em>...
 =======
 - Este mundo é composto por <em>35 exercícios</em>.
->>>>>>> c60d43067c5b8974a8561bb63678c40c81c52c6d
 
 <br>
 
