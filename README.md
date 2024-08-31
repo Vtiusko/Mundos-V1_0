@@ -10,21 +10,25 @@
 <br>
 
 ### O por que deste repositório?💾
-- O intuito deste repositório é poder demonstrar meu aprendizado, e exercícios realizados por meio do meu smartphone (que até então era o meu único meio de estudos).📲
+- O intuito deste repositório é poder demonstrar meu aprendizado, e exercícios realizados por meio do meu smartphone (que até então era o meu único meio de estudos). E então refatorá-los, aplicando conceitos obsorvidos ao longo dos meus estudos!📲
 
 <br>
 
 ### Como estão feitos os exercícios?📓
 - Alguns exercícios foram desenvolvidos indo um pouco além do que foi estipulado (tudo para que pudesse me levar à um patamar maior de aprendizado).
 
-- Sem fugir do proposto!
+- Claro, sem fugir do que foi proposto!
 
 <br>
 
 ### Quantos exercícios são?📝
 - Mundo 1 🌎 - composto por <em>35 exercícios</em> (1 - 35).
-- Mundo 2 🌎 - composto por <em>36 exercícios</em> (36 - 71).
+- Mundo 2 🌎 - <em>em andamento</em>...
 - Mundo 3 🌎 - <em>em andamento</em>...
+
+<br>
+<em>* Todos realizados no meu Smartphone!</em>
+
 <br>
 
 '''
