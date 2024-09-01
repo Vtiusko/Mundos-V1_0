@@ -5,6 +5,7 @@ from datetime import date
 from tqdm import tqdm
 from time import sleep
 
+
 ano = int(input('°'*40+'\n\nInforme o ano que deseja saber\n\nSe é bissexto ou não.\n\nPara saber do ano atual digite \033[37m0\033[m\n\n'+'°'*40+'\n\nInforme o ano: '))
 
 print('\n\033[32mAnalisando...\033[m')

@@ -31,6 +31,18 @@
 
 <br>
 
+### Bibliotecas utilizadas: 📝
+- Mundo 1 🌎:
+    - ⌚ - TIME
+    - 😊 - EMOJI
+    - ⏳ - TQDM
+    - 📆 - DATETIME
+    - 🎲 - RANDOM
+    - 🎮 - PYGAME
+    - 🧮 - MATH
+
+  <br>
+
 '''
     <em>PROGRAMANDO O FUTURO, UM COMMIT DE CADA VEZ...</em>
 '''

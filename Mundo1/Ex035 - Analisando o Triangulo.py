@@ -5,7 +5,7 @@ from time import sleep
 from emoji import emojize
 from tqdm import tqdm
 
-print(emojize('Verifique se as suas retas \033[37mPODEM\033[m ou \033[37mNÃO\033[m formar um triangulo\nSiga os passos abaixo:selfie:', use_aliases=True))
+print(emojize('Verifique se as suas retas \033[37mPODEM\033[m ou \033[37mNÃO\033[m formar um triangulo\nSiga os passos abaixo:selfie:'))
 
 print('\n\n\033[32mCarregando...\033[m\n')
 for i in tqdm(range(10)): 
